@@ -1,7 +1,7 @@
 package edu.iuh.bai4_desginiu;
 
 public class ElectricThing {
-    private  String name;
+    private String name;
     private int rate;
     private int newPrice;
     private int peopleRate;
